@@ -1,0 +1,32 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    color: #ed0303;
+    text-align: center;
+}
+
+h2 {
+    font-style: italic;
+    text-align: center;
+}
+
+p {
+    font-family: sans-serif;
+    font-style: italic;
+}
+
+ul {
+    font-size: 20px;
+    list-style-type: none;
+
+}
+
+em {
+    color: red;
+}
+
+img {
+    height: 200px;
+}
